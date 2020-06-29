@@ -4,6 +4,7 @@ public class test {
 	
     public static void main(java.lang.String[] args) 
     {
+    	
         Scanner sc = new Scanner(System.in);
         System.out.println("Saisissez un nombre: ");
         double nombre1 = sc.nextDouble();
