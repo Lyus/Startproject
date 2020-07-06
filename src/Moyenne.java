@@ -48,7 +48,7 @@ public class Moyenne {
 			return;
 		}
 		System.out.println("Welcome Monsieur " + validUser + " Merci de rentrer les informations de votre Eleves");
-		System.out.println("Nom éléve:");
+		System.out.println("Nom Eleve:");
 		String name = sc.nextLine();
 		System.out.println("Prenom eleve");
 		String fname = sc.nextLine();
